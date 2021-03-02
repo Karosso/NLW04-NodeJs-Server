@@ -1,4 +1,7 @@
-# NLW04-NodeJs-Server
+# NLW-04 NodeJs
+
+Application developed during the [Rocketseat](https://rocketseat.com.br/) NLW-04.
+It consists of a server for sending satisfaction surveys by e-mail and calculating the nps at the end of the survey.
 
 ## Installing
 ```
